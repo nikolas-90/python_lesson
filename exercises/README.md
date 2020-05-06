@@ -1,8 +1,9 @@
-# Задания и примеры из книги "Python для сетевых инженеров"
+## Задания из книги "Python для сетевых инженеров" для Python 3.7
 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+Тут находятся задания к курсу, отсортированные по разделам курса.
+Кроме того, тут находятся все вспомогательные файлы (конфигурации и др), которые используются в заданиях.
 
-Все примеры и задания были проверены на Python 3.6 и 3.7.
+> Все примеры и задания были проверены на Python 3.6 и 3.7.
 
 ## Виртуалки
 
